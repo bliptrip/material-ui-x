@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "@material-ui/utils": "^5.0.0-alpha.14",
-    "@material-ui/x-license": "4.0.0-alpha.33",
+    "@material-ui/x-license": "https://github.com/bliptrip/material-ui-x/raw/master/packages/x-license.tar.gz",
     "clsx": "^1.0.4",
     "prop-types": "^15.7.2",
     "reselect": "^4.0.0"
